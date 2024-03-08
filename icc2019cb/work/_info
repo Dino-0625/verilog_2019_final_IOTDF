@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/verilog/20240224_IOTDF/icc2019cb
+vIOTDF
+Z1 !s110 1709405422
+!i10b 1
+!s100 j[^kP0ale?RNi`dL?D@co1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ISJbbc[CN;>H8:AIc0JWWE2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1709405203
+8C:/verilog/20240224_IOTDF/icc2019cb/IOTDF.v
+FC:/verilog/20240224_IOTDF/icc2019cb/IOTDF.v
+!i122 223
+L0 2 698
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1709405421.000000
+!s107 C:/verilog/20240224_IOTDF/icc2019cb/IOTDF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/verilog/20240224_IOTDF/icc2019cb/IOTDF.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@i@o@t@d@f
+vtest
+R1
+!i10b 1
+!s100 NLmiA`>hm>?9eT2G99g7L2
+R2
+I7^=EQ?;?mO>OIelaE;PnC3
+R3
+R0
+w1709391574
+8C:/verilog/20240224_IOTDF/icc2019cb/testfixture.v
+FC:/verilog/20240224_IOTDF/icc2019cb/testfixture.v
+!i122 224
+L0 12 225
+R4
+r1
+!s85 0
+31
+!s108 1709405422.000000
+!s107 C:/verilog/20240224_IOTDF/icc2019cb/testfixture.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/verilog/20240224_IOTDF/icc2019cb/testfixture.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,2 @@
+下線seal ring 要學，可能在eda cloud 才有seal ring gds file
+floorplaning 面積不能大很多(密度不能太小)，不然會drc checking 出來
